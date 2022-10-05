@@ -1,4 +1,4 @@
 # first_parser
-First website parser for mortgagehelp website
+Web crawler for mortgagehelp website
 Parses names of brokers
-Takes ~20 minutes(WTF?) to parse and creates excel document.
+CURRENTLY BROKEN AND UNOPTIMIZED.
